@@ -1,6 +1,6 @@
-# Rock-paper-scissors-game
+ # Rock-paper-scissors-game
 
-  # Python Rock paper Scissor Game
+# Python Rock paper Scissor Game
 
 import random 
 
