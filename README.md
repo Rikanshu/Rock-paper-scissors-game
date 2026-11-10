@@ -25,6 +25,7 @@ while True:
     
  elif user in choice:
     print("you lose")
+    
  else:
     print("invalid input")         
 
