@@ -32,7 +32,7 @@ while True:
 
  replay = input("do want to replay this game (yes / no )").strip().lower()
  
- if replay =="no":
+ if replay =="no": 
     print("thank you for playing this game")
     break
 
