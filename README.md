@@ -19,6 +19,7 @@ while True:
     
  elif user =="paper" and computer == "rock":
     print("you win")
+    
  elif user == "scissors" and computer == "paper":
     print("you win")
  elif user in choice:
