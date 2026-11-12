@@ -7,7 +7,7 @@ import random
 choice = ["rock","paper","scissors"]
 while True:
  computer: str = random.choice(choice)
-
+ 
  user = input("choose rock or paper and scissors: ").lower()
  print("computer choose",computer)
  
