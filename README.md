@@ -12,7 +12,7 @@ while True:
  print("computer choose",computer)
  
  if user == computer:  
-    print("tie")
+    print("tie") 
 
  elif user == "rock" and computer == "scissors":
     print("you win") 
