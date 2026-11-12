@@ -11,7 +11,7 @@ while True:
  user = input("choose rock or paper and scissors: ").lower()
  print("computer choose",computer)
  
- if user == computer: 
+ if user == computer:  
     print("tie")
 
  elif user == "rock" and computer == "scissors":
