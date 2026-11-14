@@ -15,7 +15,6 @@ while True:
     print("tie") 
   
 
-
  elif user == "rock" and computer == "scissors":
     print("you win") 
     
