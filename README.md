@@ -3,7 +3,7 @@
 # Python Rock paper Scissor Game
 
 import random 
-
+ 
 choice = ["rock","paper","scissors"]
 while True: 
  computer: str = random.choice(choice)
