@@ -23,7 +23,7 @@ while True:
     
  elif user == "scissors" and computer == "paper":
     print("you win")
-    
+      
  elif user in choice:
     print("you lose")
     
