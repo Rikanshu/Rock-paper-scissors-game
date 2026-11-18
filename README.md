@@ -36,7 +36,7 @@ while True:
  if replay =="no": 
     print("thank you for playing this game") 
     break
-
+ 
 
 
 
