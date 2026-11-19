@@ -17,7 +17,7 @@ while True:
    
  elif user ==  "rock" and computer == "scissors":
     print("you win") 
-    
+     
  elif user =="paper" and computer == "rock": 
     print("you win")
     
