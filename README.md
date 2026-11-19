@@ -4,7 +4,7 @@
 
 import random 
  
-choice = ["rock","paper","scissors"]
+choice = ["rock","paper","scissors"] 
 while True: 
  computer: str = random.choice(choice)
  
